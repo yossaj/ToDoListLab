@@ -1,0 +1,12 @@
+body {
+  font-family: Palatino;
+}
+
+li{
+  background-color: azure;
+  border: 2px;
+  border-style: dashed;
+  border-color: blueviolet;
+  margin: 20px;
+  padding:10px;
+}
